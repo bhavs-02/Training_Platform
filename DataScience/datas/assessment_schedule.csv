@@ -1,0 +1,501 @@
+Assessment ID,Assessment Domain,Assessment Sub-Topic,Date of Test,Start Time of Test,End Time of Test,Total Score
+0,Game Development,Assessment on Game Development,2024-02-29,13,16,100
+1,Geographical Information Systems (GIS),Assessment on Geographical Information Systems (GIS),2022-04-11,13,16,25
+2,Industrial Automation,Assessment on Industrial Automation,2024-01-30,13,16,120
+3,5G Technology,Assessment on 5G Technology,2024-04-04,13,18,120
+4,IT Infrastructure Management,Assessment on IT Infrastructure Management,2024-01-05,11,14,50
+5,Computational Biology,Assessment on Computational Biology,2024-03-07,9,11,100
+6,IT Infrastructure Management,Assessment on IT Infrastructure Management,2023-12-02,14,16,25
+7,Virtualization,Assessment on Virtualization,2023-04-15,12,16,25
+8,Enterprise Resource Planning (ERP),Assessment on Enterprise Resource Planning (ERP),2021-04-22,13,14,50
+9,Ethical Hacking,Assessment on Ethical Hacking,2021-11-23,9,17,50
+10,Renewable Energy Systems,Assessment on Renewable Energy Systems,2024-02-05,9,10,25
+11,Bioinformatics,Assessment on Bioinformatics,2023-04-02,15,18,25
+12,Computer Vision,Assessment on Computer Vision,2023-05-11,11,15,120
+13,DevOps,Assessment on DevOps,2023-09-07,14,17,50
+14,Penetration Testing,Assessment on Penetration Testing,2024-04-04,13,18,100
+15,Business Intelligence,Assessment on Business Intelligence,2024-02-04,13,14,100
+16,Soft Skill Training,Assessment on Soft Skill Training,2024-04-12,12,14,50
+17,Predictive Maintenance,Assessment on Predictive Maintenance,2024-03-12,11,18,100
+18,Quality Assurance and Testing,Assessment on Quality Assurance and Testing,2024-04-02,14,18,25
+19,Data Science,Assessment on Data Science,2024-04-11,11,14,100
+20,Virtual Reality (VR),Assessment on Virtual Reality (VR),2023-06-24,11,18,120
+21,Natural Language Processing (NLP),Assessment on Natural Language Processing (NLP),2023-12-17,10,16,100
+22,Artificial Intelligence,Assessment on Artificial Intelligence,2023-09-06,11,12,100
+23,Cloud Security,Assessment on Cloud Security,2022-02-05,10,16,100
+24,Ethical Hacking,Assessment on Ethical Hacking,2022-09-17,13,14,50
+25,Game Development,Assessment on Game Development,2024-04-06,11,14,25
+26,Cloud Computing,Assessment on Cloud Computing,2023-12-02,10,17,25
+27,Business Intelligence,Assessment on Business Intelligence,2024-02-11,15,17,100
+28,Software Development,Assessment on Software Development,2023-11-25,12,17,25
+29,System Administration,Assessment on System Administration,2023-07-10,10,13,50
+30,DevOps,Assessment on DevOps,2023-10-29,13,18,50
+31,Wireless Communication,Assessment on Wireless Communication,2023-06-12,11,14,120
+32,UX/UI Design,Assessment on UX/UI Design,2023-08-19,15,16,25
+33,Blockchain Technology,Assessment on Blockchain Technology,2023-12-30,15,17,100
+34,Augmented Reality (AR),Assessment on Augmented Reality (AR),2024-01-28,15,16,100
+35,Mobile App Development,Assessment on Mobile App Development,2022-08-09,13,14,25
+36,Cognitive Computing,Assessment on Cognitive Computing,2024-01-05,13,17,100
+37,Internet of Things (IoT),Assessment on Internet of Things (IoT),2023-03-17,12,16,25
+38,Artificial Intelligence,Assessment on Artificial Intelligence,2023-07-19,14,17,25
+39,Nanotechnology,Assessment on Nanotechnology,2021-10-29,11,14,100
+40,Artificial Intelligence,Assessment on Artificial Intelligence,2022-01-07,12,14,100
+41,Software Development,Assessment on Software Development,2023-08-22,12,15,50
+42,UX/UI Design,Assessment on UX/UI Design,2022-09-26,13,15,50
+43,DevOps,Assessment on DevOps,2021-08-07,15,18,25
+44,Data Science,Assessment on Data Science,2023-05-02,13,16,25
+45,DevOps,Assessment on DevOps,2022-08-22,9,17,100
+46,Cybersecurity,Assessment on Cybersecurity,2024-01-31,11,16,50
+47,Natural Language Processing,Assessment on Natural Language Processing,2024-02-21,14,15,100
+48,Data Engineering,Assessment on Data Engineering,2023-09-27,14,15,25
+49,Natural Language Processing (NLP),Assessment on Natural Language Processing (NLP),2022-02-08,14,15,120
+50,Database Management,Assessment on Database Management,2024-01-01,12,16,100
+51,Natural Language Processing (NLP),Assessment on Natural Language Processing (NLP),2022-05-16,13,16,50
+52,Cognitive Computing,Assessment on Cognitive Computing,2024-02-14,11,18,100
+53,Mobile App Development,Assessment on Mobile App Development,2022-09-12,13,14,50
+54,Data Engineering,Assessment on Data Engineering,2022-12-12,13,18,25
+55,IT Infrastructure Management,Assessment on IT Infrastructure Management,2023-05-18,14,17,120
+56,Semiconductor Manufacturing,Assessment on Semiconductor Manufacturing,2023-02-18,9,16,50
+57,Digital Marketing Analytics,Assessment on Digital Marketing Analytics,2023-10-09,12,17,120
+58,Web Development,Assessment on Web Development,2023-09-21,11,12,120
+59,Geographical Information Systems (GIS),Assessment on Geographical Information Systems (GIS),2023-01-20,13,14,120
+60,Internet of Things (IoT),Assessment on Internet of Things (IoT),2023-09-23,12,15,25
+61,Natural Language Processing,Assessment on Natural Language Processing,2023-02-11,9,11,25
+62,Cloud Security,Assessment on Cloud Security,2023-08-28,15,16,120
+63,Business Intelligence,Assessment on Business Intelligence,2023-01-22,14,18,25
+64,Augmented Reality (AR),Assessment on Augmented Reality (AR),2023-01-18,15,16,100
+65,Enterprise Resource Planning (ERP),Assessment on Enterprise Resource Planning (ERP),2021-07-02,11,15,120
+66,Cognitive Computing,Assessment on Cognitive Computing,2023-03-24,11,12,25
+67,Predictive Maintenance,Assessment on Predictive Maintenance,2021-05-16,13,17,120
+68,Cloud Computing,Assessment on Cloud Computing,2024-01-23,11,13,25
+69,Virtualization,Assessment on Virtualization,2022-09-15,15,17,50
+70,Mobile App Development,Assessment on Mobile App Development,2023-10-27,11,17,100
+71,UX/UI Design,Assessment on UX/UI Design,2022-10-19,14,17,100
+72,Deep Learning,Assessment on Deep Learning,2023-09-09,10,14,120
+73,Game Development,Assessment on Game Development,2024-03-26,10,12,50
+74,Supply Chain Management Systems,Assessment on Supply Chain Management Systems,2023-07-10,12,18,25
+75,Big Data Analytics,Assessment on Big Data Analytics,2024-04-07,13,16,50
+76,Geographical Information Systems (GIS),Assessment on Geographical Information Systems (GIS),2024-03-18,10,15,120
+77,Geographical Information Systems (GIS),Assessment on Geographical Information Systems (GIS),2022-12-27,12,17,120
+78,Wireless Communication,Assessment on Wireless Communication,2021-07-31,14,16,25
+79,Human-Computer Interaction,Assessment on Human-Computer Interaction,2023-10-21,13,15,25
+80,DevOps,Assessment on DevOps,2023-03-03,15,16,50
+81,Deep Learning,Assessment on Deep Learning,2023-11-09,10,15,25
+82,Digital Marketing Analytics,Assessment on Digital Marketing Analytics,2023-03-05,13,17,100
+83,Natural Language Processing,Assessment on Natural Language Processing,2024-02-22,13,16,100
+84,Virtualization,Assessment on Virtualization,2022-08-01,13,17,25
+85,Quality Assurance and Testing,Assessment on Quality Assurance and Testing,2023-10-20,9,10,25
+86,Virtual Reality (VR),Assessment on Virtual Reality (VR),2024-02-16,15,16,120
+87,Software Development,Assessment on Software Development,2023-10-07,11,15,100
+88,Augmented Reality (AR),Assessment on Augmented Reality (AR),2022-02-18,13,18,25
+89,Machine Learning,Assessment on Machine Learning,2021-04-13,13,16,50
+90,Cybersecurity,Assessment on Cybersecurity,2022-10-26,12,16,50
+91,Big Data Analytics,Assessment on Big Data Analytics,2022-12-12,12,14,25
+92,Quantum Computing,Assessment on Quantum Computing,2023-10-24,11,15,25
+93,Big Data Analytics,Assessment on Big Data Analytics,2023-04-02,9,17,120
+94,Machine Learning,Assessment on Machine Learning,2023-05-02,14,16,100
+95,Ethical Hacking,Assessment on Ethical Hacking,2021-04-01,15,17,50
+96,Mobile App Development,Assessment on Mobile App Development,2022-03-26,14,17,100
+97,Penetration Testing,Assessment on Penetration Testing,2023-05-14,9,11,120
+98,Database Management,Assessment on Database Management,2023-06-20,15,18,120
+99,Mobile App Development,Assessment on Mobile App Development,2021-11-15,13,14,120
+100,Supply Chain Management Systems,Assessment on Supply Chain Management Systems,2023-08-23,13,16,25
+101,Network Administration,Assessment on Network Administration,2022-10-27,13,15,120
+102,Ethical Hacking,Assessment on Ethical Hacking,2023-07-10,13,14,50
+103,Virtual Reality (VR),Assessment on Virtual Reality (VR),2024-02-25,9,12,25
+104,Cybersecurity,Assessment on Cybersecurity,2022-07-04,9,16,25
+105,Robotics,Assessment on Robotics,2024-04-12,9,17,25
+106,Wireless Communication,Assessment on Wireless Communication,2022-08-19,11,14,25
+107,Predictive Maintenance,Assessment on Predictive Maintenance,2024-02-23,10,11,50
+108,Internet of Things (IoT),Assessment on Internet of Things (IoT),2022-10-26,10,14,120
+109,IT Infrastructure Management,Assessment on IT Infrastructure Management,2022-07-04,9,10,120
+110,Deep Learning,Assessment on Deep Learning,2023-10-01,12,18,100
+111,Quantum Computing,Assessment on Quantum Computing,2024-02-08,11,12,100
+112,Mobile App Development,Assessment on Mobile App Development,2021-11-16,13,15,120
+113,Penetration Testing,Assessment on Penetration Testing,2024-04-10,10,11,100
+114,Digital Marketing Analytics,Assessment on Digital Marketing Analytics,2023-11-08,12,13,120
+115,Nanotechnology,Assessment on Nanotechnology,2023-07-23,11,18,100
+116,Digital Marketing Analytics,Assessment on Digital Marketing Analytics,2023-09-20,15,16,50
+117,Human-Computer Interaction,Assessment on Human-Computer Interaction,2023-03-01,12,15,25
+118,Big Data Analytics,Assessment on Big Data Analytics,2023-07-06,11,16,25
+119,Network Administration,Assessment on Network Administration,2023-02-15,12,16,120
+120,Machine Learning,Assessment on Machine Learning,2023-11-19,10,13,50
+121,Penetration Testing,Assessment on Penetration Testing,2023-02-25,13,17,25
+122,Computer Vision,Assessment on Computer Vision,2024-03-08,12,16,50
+123,Software Development,Assessment on Software Development,2024-03-01,9,11,120
+124,DevOps,Assessment on DevOps,2024-04-12,12,13,50
+125,Database Management,Assessment on Database Management,2023-07-01,14,16,120
+126,Information Security,Assessment on Information Security,2023-07-09,12,18,120
+127,Virtual Reality (VR),Assessment on Virtual Reality (VR),2024-03-23,14,18,120
+128,Information Security,Assessment on Information Security,2022-11-11,13,15,50
+129,Robotics,Assessment on Robotics,2023-01-15,14,16,120
+130,Natural Language Processing,Assessment on Natural Language Processing,2023-04-28,12,15,120
+131,Cloud Security,Assessment on Cloud Security,2022-06-08,9,13,50
+132,Artificial Intelligence,Assessment on Artificial Intelligence,2023-07-23,14,16,50
+133,Virtual Reality (VR),Assessment on Virtual Reality (VR),2023-08-24,10,13,120
+134,Virtual Reality (VR),Assessment on Virtual Reality (VR),2024-03-16,11,14,25
+135,Network Administration,Assessment on Network Administration,2023-09-22,11,13,25
+136,Technical Writing and Documentation,Assessment on Technical Writing and Documentation,2021-11-23,13,16,50
+137,Cloud Security,Assessment on Cloud Security,2024-03-24,10,18,25
+138,Renewable Energy Systems,Assessment on Renewable Energy Systems,2023-11-16,11,16,25
+139,Natural Language Processing,Assessment on Natural Language Processing,2023-12-29,11,17,100
+140,Information Security,Assessment on Information Security,2021-11-05,15,17,50
+141,Virtualization,Assessment on Virtualization,2023-02-27,15,16,25
+142,Computer Forensics,Assessment on Computer Forensics,2022-11-05,14,18,50
+143,Natural Language Processing (NLP),Assessment on Natural Language Processing (NLP),2021-09-20,12,17,120
+144,Network Administration,Assessment on Network Administration,2023-12-19,14,18,25
+145,Database Management,Assessment on Database Management,2022-08-27,10,14,120
+146,Enterprise Resource Planning (ERP),Assessment on Enterprise Resource Planning (ERP),2023-08-25,10,14,120
+147,Mobile App Development,Assessment on Mobile App Development,2022-12-10,12,17,25
+148,Supply Chain Management Systems,Assessment on Supply Chain Management Systems,2023-04-03,13,14,25
+149,Geographical Information Systems (GIS),Assessment on Geographical Information Systems (GIS),2023-04-17,15,18,50
+150,System Administration,Assessment on System Administration,2024-01-06,13,17,50
+151,Embedded Systems,Assessment on Embedded Systems,2024-03-02,12,17,120
+152,Embedded Systems,Assessment on Embedded Systems,2022-01-19,14,16,120
+153,Predictive Maintenance,Assessment on Predictive Maintenance,2021-12-31,14,16,25
+154,Virtual Reality (VR),Assessment on Virtual Reality (VR),2024-04-02,14,17,120
+155,Data Science,Assessment on Data Science,2023-03-09,14,16,100
+156,System Administration,Assessment on System Administration,2022-04-19,12,16,50
+157,Big Data Analytics,Assessment on Big Data Analytics,2023-10-29,14,15,100
+158,Enterprise Resource Planning (ERP),Assessment on Enterprise Resource Planning (ERP),2022-07-07,11,18,50
+159,UX/UI Design,Assessment on UX/UI Design,2021-10-27,12,14,120
+160,Robotics,Assessment on Robotics,2024-04-08,12,17,25
+161,Soft Skill Training,Assessment on Soft Skill Training,2024-03-28,9,12,100
+162,Quantum Computing,Assessment on Quantum Computing,2023-12-18,13,15,120
+163,Game Development,Assessment on Game Development,2023-04-07,10,13,120
+164,Predictive Maintenance,Assessment on Predictive Maintenance,2024-03-12,12,16,50
+165,Geographical Information Systems (GIS),Assessment on Geographical Information Systems (GIS),2021-12-26,10,14,25
+166,Robotics,Assessment on Robotics,2024-01-13,15,18,50
+167,Wireless Communication,Assessment on Wireless Communication,2024-01-08,14,18,50
+168,Software Development,Assessment on Software Development,2022-11-02,14,16,25
+169,Semiconductor Manufacturing,Assessment on Semiconductor Manufacturing,2023-11-05,14,15,25
+170,Geographical Information Systems (GIS),Assessment on Geographical Information Systems (GIS),2024-04-02,15,17,120
+171,Machine Learning,Assessment on Machine Learning,2022-03-04,11,17,100
+172,Nanotechnology,Assessment on Nanotechnology,2024-02-01,15,16,100
+173,Cognitive Computing,Assessment on Cognitive Computing,2024-03-17,12,15,120
+174,Machine Learning,Assessment on Machine Learning,2024-03-28,15,18,50
+175,Network Administration,Assessment on Network Administration,2022-06-19,9,17,50
+176,Big Data Analytics,Assessment on Big Data Analytics,2024-02-02,14,15,120
+177,Ethical Hacking,Assessment on Ethical Hacking,2022-08-30,12,18,120
+178,5G Technology,Assessment on 5G Technology,2023-04-20,11,14,120
+179,Computer Vision,Assessment on Computer Vision,2024-01-07,9,11,25
+180,Nanotechnology,Assessment on Nanotechnology,2022-08-10,14,16,25
+181,Quality Assurance and Testing,Assessment on Quality Assurance and Testing,2024-01-09,10,18,25
+182,Ethical Hacking,Assessment on Ethical Hacking,2022-08-26,15,17,50
+183,Virtualization,Assessment on Virtualization,2024-04-04,14,17,100
+184,Computational Biology,Assessment on Computational Biology,2023-03-30,15,16,100
+185,Soft Skill Training,Assessment on Soft Skill Training,2023-03-19,14,17,100
+186,Computer Vision,Assessment on Computer Vision,2023-07-27,12,13,120
+187,Computer Forensics,Assessment on Computer Forensics,2023-09-17,15,17,25
+188,Technical Writing and Documentation,Assessment on Technical Writing and Documentation,2022-09-16,12,17,50
+189,Cloud Security,Assessment on Cloud Security,2022-09-24,15,17,25
+190,Predictive Maintenance,Assessment on Predictive Maintenance,2024-03-31,13,18,100
+191,Enterprise Resource Planning (ERP),Assessment on Enterprise Resource Planning (ERP),2023-11-28,9,13,25
+192,Computer Forensics,Assessment on Computer Forensics,2023-12-22,12,18,50
+193,Computer Forensics,Assessment on Computer Forensics,2022-04-02,14,17,50
+194,Soft Skill Training,Assessment on Soft Skill Training,2023-01-15,11,18,120
+195,Network Administration,Assessment on Network Administration,2024-03-13,13,14,25
+196,UX/UI Design,Assessment on UX/UI Design,2023-04-03,12,16,50
+197,Artificial Intelligence,Assessment on Artificial Intelligence,2023-02-24,11,15,25
+198,Artificial Intelligence,Assessment on Artificial Intelligence,2023-11-24,11,17,100
+199,Database Management,Assessment on Database Management,2024-01-30,11,13,50
+200,Business Intelligence,Assessment on Business Intelligence,2021-10-27,11,15,25
+201,Internet of Things (IoT),Assessment on Internet of Things (IoT),2023-08-25,12,18,120
+202,Big Data Analytics,Assessment on Big Data Analytics,2022-12-16,10,12,50
+203,Data Science,Assessment on Data Science,2024-04-06,15,17,50
+204,Game Development,Assessment on Game Development,2023-10-14,15,17,100
+205,Nanotechnology,Assessment on Nanotechnology,2023-01-17,10,13,100
+206,Big Data Analytics,Assessment on Big Data Analytics,2024-03-24,9,14,50
+207,Industrial Automation,Assessment on Industrial Automation,2024-04-07,14,15,100
+208,Virtualization,Assessment on Virtualization,2023-09-08,14,18,25
+209,Web Development,Assessment on Web Development,2024-03-17,15,18,100
+210,Business Intelligence,Assessment on Business Intelligence,2022-03-11,15,16,50
+211,Computer Vision,Assessment on Computer Vision,2024-04-11,15,18,100
+212,Computer Forensics,Assessment on Computer Forensics,2022-03-07,15,17,50
+213,Semiconductor Manufacturing,Assessment on Semiconductor Manufacturing,2021-11-21,11,17,25
+214,Network Administration,Assessment on Network Administration,2024-03-13,15,16,25
+215,Semiconductor Manufacturing,Assessment on Semiconductor Manufacturing,2022-12-24,15,17,100
+216,Augmented Reality (AR),Assessment on Augmented Reality (AR),2024-01-09,12,15,120
+217,Information Security,Assessment on Information Security,2024-03-06,12,13,25
+218,DevOps,Assessment on DevOps,2023-03-03,9,18,100
+219,Human-Computer Interaction,Assessment on Human-Computer Interaction,2023-02-03,10,18,25
+220,Human-Computer Interaction,Assessment on Human-Computer Interaction,2022-03-16,15,17,25
+221,Ethical Hacking,Assessment on Ethical Hacking,2023-06-03,15,16,120
+222,Cybersecurity,Assessment on Cybersecurity,2023-03-07,12,16,25
+223,Cognitive Computing,Assessment on Cognitive Computing,2023-10-31,12,15,50
+224,Bioinformatics,Assessment on Bioinformatics,2022-06-05,10,18,25
+225,Database Management,Assessment on Database Management,2024-03-29,12,17,50
+226,Predictive Maintenance,Assessment on Predictive Maintenance,2023-11-10,13,18,120
+227,Augmented Reality (AR),Assessment on Augmented Reality (AR),2021-11-05,12,17,120
+228,Supply Chain Management Systems,Assessment on Supply Chain Management Systems,2023-01-12,11,18,50
+229,Data Engineering,Assessment on Data Engineering,2024-04-10,11,17,120
+230,System Administration,Assessment on System Administration,2023-08-09,15,17,100
+231,Network Administration,Assessment on Network Administration,2021-02-18,12,17,120
+232,Bioinformatics,Assessment on Bioinformatics,2024-03-26,12,16,120
+233,Human-Computer Interaction,Assessment on Human-Computer Interaction,2023-03-31,15,18,120
+234,Renewable Energy Systems,Assessment on Renewable Energy Systems,2022-03-28,13,18,100
+235,Digital Marketing Analytics,Assessment on Digital Marketing Analytics,2023-06-25,10,13,100
+236,Predictive Maintenance,Assessment on Predictive Maintenance,2023-10-29,12,18,120
+237,Cognitive Computing,Assessment on Cognitive Computing,2023-08-16,10,18,25
+238,Quality Assurance and Testing,Assessment on Quality Assurance and Testing,2022-11-07,15,16,100
+239,Human-Computer Interaction,Assessment on Human-Computer Interaction,2023-11-13,14,17,100
+240,Internet of Things (IoT),Assessment on Internet of Things (IoT),2023-10-22,15,18,120
+241,Geographical Information Systems (GIS),Assessment on Geographical Information Systems (GIS),2022-10-30,12,16,25
+242,Technical Writing and Documentation,Assessment on Technical Writing and Documentation,2024-02-11,15,16,50
+243,System Administration,Assessment on System Administration,2022-09-16,11,13,25
+244,Robotics,Assessment on Robotics,2022-10-14,11,18,100
+245,Virtualization,Assessment on Virtualization,2023-08-26,10,11,120
+246,Semiconductor Manufacturing,Assessment on Semiconductor Manufacturing,2023-02-27,9,13,100
+247,IT Infrastructure Management,Assessment on IT Infrastructure Management,2021-07-31,14,15,25
+248,Renewable Energy Systems,Assessment on Renewable Energy Systems,2022-05-15,12,13,100
+249,Big Data Analytics,Assessment on Big Data Analytics,2023-11-21,15,17,50
+250,Cloud Security,Assessment on Cloud Security,2023-03-14,13,14,50
+251,Bioinformatics,Assessment on Bioinformatics,2023-02-28,9,10,120
+252,Robotics,Assessment on Robotics,2021-11-18,12,13,120
+253,Cloud Computing,Assessment on Cloud Computing,2021-09-21,13,15,120
+254,Human-Computer Interaction,Assessment on Human-Computer Interaction,2023-12-16,14,15,50
+255,Wireless Communication,Assessment on Wireless Communication,2024-04-09,11,16,50
+256,Human-Computer Interaction,Assessment on Human-Computer Interaction,2024-03-21,9,10,100
+257,Big Data Analytics,Assessment on Big Data Analytics,2023-10-31,13,18,25
+258,Computer Vision,Assessment on Computer Vision,2022-01-11,9,18,25
+259,Deep Learning,Assessment on Deep Learning,2024-03-26,14,16,100
+260,Artificial Intelligence,Assessment on Artificial Intelligence,2023-10-22,9,13,25
+261,Technical Writing and Documentation,Assessment on Technical Writing and Documentation,2023-12-23,14,18,120
+262,Artificial Intelligence,Assessment on Artificial Intelligence,2021-06-27,14,15,25
+263,Deep Learning,Assessment on Deep Learning,2023-02-20,9,18,100
+264,Deep Learning,Assessment on Deep Learning,2021-10-03,11,15,50
+265,Computer Vision,Assessment on Computer Vision,2024-03-24,11,17,50
+266,Renewable Energy Systems,Assessment on Renewable Energy Systems,2022-11-02,13,16,25
+267,Blockchain Technology,Assessment on Blockchain Technology,2023-07-21,14,17,100
+268,Renewable Energy Systems,Assessment on Renewable Energy Systems,2023-07-12,10,14,100
+269,Deep Learning,Assessment on Deep Learning,2024-02-15,12,18,25
+270,Nanotechnology,Assessment on Nanotechnology,2024-03-05,11,12,120
+271,Artificial Intelligence,Assessment on Artificial Intelligence,2023-02-23,12,15,25
+272,Computer Forensics,Assessment on Computer Forensics,2023-12-24,15,17,50
+273,System Administration,Assessment on System Administration,2024-01-03,14,15,100
+274,Machine Learning,Assessment on Machine Learning,2022-04-23,10,15,120
+275,Predictive Maintenance,Assessment on Predictive Maintenance,2022-04-05,15,18,25
+276,Technical Writing and Documentation,Assessment on Technical Writing and Documentation,2024-02-25,15,17,50
+277,Enterprise Resource Planning (ERP),Assessment on Enterprise Resource Planning (ERP),2022-12-04,10,12,25
+278,Network Administration,Assessment on Network Administration,2023-10-26,11,17,25
+279,Predictive Maintenance,Assessment on Predictive Maintenance,2023-10-25,10,13,120
+280,Supply Chain Management Systems,Assessment on Supply Chain Management Systems,2022-07-24,11,16,50
+281,UX/UI Design,Assessment on UX/UI Design,2022-10-29,10,11,100
+282,Computer Vision,Assessment on Computer Vision,2021-09-28,10,14,50
+283,Computer Vision,Assessment on Computer Vision,2024-04-12,12,16,100
+284,Artificial Intelligence,Assessment on Artificial Intelligence,2023-08-27,12,13,25
+285,Internet of Things (IoT),Assessment on Internet of Things (IoT),2024-01-08,15,17,25
+286,Penetration Testing,Assessment on Penetration Testing,2023-04-20,15,16,25
+287,Business Intelligence,Assessment on Business Intelligence,2023-01-25,12,13,100
+288,Supply Chain Management Systems,Assessment on Supply Chain Management Systems,2023-11-28,9,14,50
+289,Penetration Testing,Assessment on Penetration Testing,2023-03-29,9,13,100
+290,Industrial Automation,Assessment on Industrial Automation,2024-01-06,13,18,120
+291,Geographical Information Systems (GIS),Assessment on Geographical Information Systems (GIS),2023-10-26,14,17,120
+292,Software Development,Assessment on Software Development,2024-04-06,10,16,120
+293,Database Management,Assessment on Database Management,2024-04-05,11,16,100
+294,Game Development,Assessment on Game Development,2023-04-01,10,16,25
+295,Mobile App Development,Assessment on Mobile App Development,2023-09-21,13,16,100
+296,Cognitive Computing,Assessment on Cognitive Computing,2022-08-03,10,15,100
+297,Cloud Security,Assessment on Cloud Security,2024-01-13,12,17,25
+298,Business Intelligence,Assessment on Business Intelligence,2023-04-12,10,16,25
+299,DevOps,Assessment on DevOps,2024-03-03,15,18,50
+300,Information Security,Assessment on Information Security,2023-07-24,9,10,50
+301,Natural Language Processing (NLP),Assessment on Natural Language Processing (NLP),2023-02-13,14,15,25
+302,UX/UI Design,Assessment on UX/UI Design,2024-02-27,10,14,50
+303,Information Security,Assessment on Information Security,2023-03-17,9,15,100
+304,Computer Forensics,Assessment on Computer Forensics,2023-11-15,14,18,100
+305,Cloud Computing,Assessment on Cloud Computing,2022-11-17,14,15,50
+306,Cybersecurity,Assessment on Cybersecurity,2023-11-30,9,18,50
+307,Big Data Analytics,Assessment on Big Data Analytics,2023-11-20,10,15,120
+308,Digital Marketing Analytics,Assessment on Digital Marketing Analytics,2023-03-28,9,15,25
+309,Cloud Computing,Assessment on Cloud Computing,2024-03-19,15,17,120
+310,Geographical Information Systems (GIS),Assessment on Geographical Information Systems (GIS),2024-01-02,9,13,50
+311,Computer Forensics,Assessment on Computer Forensics,2024-03-23,14,17,100
+312,Computer Forensics,Assessment on Computer Forensics,2024-01-11,14,15,120
+313,Network Administration,Assessment on Network Administration,2024-02-12,15,18,50
+314,Industrial Automation,Assessment on Industrial Automation,2023-07-17,11,13,25
+315,Soft Skill Training,Assessment on Soft Skill Training,2024-04-10,10,15,100
+316,5G Technology,Assessment on 5G Technology,2024-03-27,9,14,100
+317,Deep Learning,Assessment on Deep Learning,2023-07-12,15,18,50
+318,Ethical Hacking,Assessment on Ethical Hacking,2023-12-27,11,13,120
+319,Natural Language Processing,Assessment on Natural Language Processing,2024-01-22,11,18,50
+320,Database Management,Assessment on Database Management,2024-03-07,10,13,50
+321,Virtual Reality (VR),Assessment on Virtual Reality (VR),2023-07-28,13,16,100
+322,Supply Chain Management Systems,Assessment on Supply Chain Management Systems,2022-10-15,11,17,100
+323,Computer Forensics,Assessment on Computer Forensics,2023-02-22,13,16,50
+324,IT Infrastructure Management,Assessment on IT Infrastructure Management,2022-07-10,13,16,120
+325,Information Security,Assessment on Information Security,2022-07-15,12,18,100
+326,Computer Forensics,Assessment on Computer Forensics,2024-04-01,11,18,50
+327,Enterprise Resource Planning (ERP),Assessment on Enterprise Resource Planning (ERP),2024-03-27,15,16,50
+328,Bioinformatics,Assessment on Bioinformatics,2022-09-09,14,17,100
+329,Natural Language Processing,Assessment on Natural Language Processing,2021-11-02,9,13,120
+330,Virtualization,Assessment on Virtualization,2024-03-27,12,18,50
+331,Geographical Information Systems (GIS),Assessment on Geographical Information Systems (GIS),2023-08-30,12,13,100
+332,Ethical Hacking,Assessment on Ethical Hacking,2023-05-19,15,18,120
+333,Wireless Communication,Assessment on Wireless Communication,2022-11-04,9,18,50
+334,Wireless Communication,Assessment on Wireless Communication,2024-04-10,11,15,50
+335,Technical Writing and Documentation,Assessment on Technical Writing and Documentation,2023-10-16,9,18,120
+336,Cybersecurity,Assessment on Cybersecurity,2023-12-03,9,13,120
+337,Wireless Communication,Assessment on Wireless Communication,2022-08-04,11,16,50
+338,Data Science,Assessment on Data Science,2021-05-17,15,16,25
+339,Big Data Analytics,Assessment on Big Data Analytics,2024-03-27,13,18,120
+340,Mobile App Development,Assessment on Mobile App Development,2023-04-29,9,10,120
+341,IT Infrastructure Management,Assessment on IT Infrastructure Management,2024-01-02,14,15,120
+342,Big Data Analytics,Assessment on Big Data Analytics,2023-06-09,14,17,50
+343,Digital Marketing Analytics,Assessment on Digital Marketing Analytics,2023-11-19,13,15,100
+344,Digital Marketing Analytics,Assessment on Digital Marketing Analytics,2023-08-29,14,16,25
+345,Data Engineering,Assessment on Data Engineering,2024-01-15,11,18,50
+346,Human-Computer Interaction,Assessment on Human-Computer Interaction,2022-02-22,15,17,50
+347,Computational Biology,Assessment on Computational Biology,2023-08-21,9,18,50
+348,Business Intelligence,Assessment on Business Intelligence,2023-12-04,15,18,25
+349,Enterprise Resource Planning (ERP),Assessment on Enterprise Resource Planning (ERP),2024-03-30,13,17,25
+350,Data Science,Assessment on Data Science,2023-10-04,12,13,120
+351,IT Infrastructure Management,Assessment on IT Infrastructure Management,2021-09-10,14,17,25
+352,Semiconductor Manufacturing,Assessment on Semiconductor Manufacturing,2024-03-27,9,12,120
+353,System Administration,Assessment on System Administration,2023-03-27,14,18,50
+354,Soft Skill Training,Assessment on Soft Skill Training,2022-11-23,10,17,120
+355,Information Security,Assessment on Information Security,2023-06-21,15,16,50
+356,Semiconductor Manufacturing,Assessment on Semiconductor Manufacturing,2024-02-04,15,16,50
+357,Human-Computer Interaction,Assessment on Human-Computer Interaction,2022-01-28,15,17,100
+358,Supply Chain Management Systems,Assessment on Supply Chain Management Systems,2024-04-06,11,18,120
+359,Business Intelligence,Assessment on Business Intelligence,2023-08-26,10,16,25
+360,Mobile App Development,Assessment on Mobile App Development,2021-05-08,12,18,25
+361,Digital Marketing Analytics,Assessment on Digital Marketing Analytics,2023-02-02,15,16,50
+362,Penetration Testing,Assessment on Penetration Testing,2024-04-07,10,11,50
+363,Computer Forensics,Assessment on Computer Forensics,2022-04-15,14,15,120
+364,Augmented Reality (AR),Assessment on Augmented Reality (AR),2022-01-17,11,16,120
+365,Enterprise Resource Planning (ERP),Assessment on Enterprise Resource Planning (ERP),2022-11-01,9,15,120
+366,Information Security,Assessment on Information Security,2024-03-23,9,12,100
+367,Enterprise Resource Planning (ERP),Assessment on Enterprise Resource Planning (ERP),2023-07-19,13,15,120
+368,Natural Language Processing,Assessment on Natural Language Processing,2024-01-29,15,16,120
+369,Data Science,Assessment on Data Science,2022-10-06,15,17,25
+370,Natural Language Processing (NLP),Assessment on Natural Language Processing (NLP),2022-11-18,14,15,100
+371,Information Security,Assessment on Information Security,2023-01-04,12,16,25
+372,Internet of Things (IoT),Assessment on Internet of Things (IoT),2021-05-15,11,18,25
+373,Network Administration,Assessment on Network Administration,2023-01-21,12,17,50
+374,Software Development,Assessment on Software Development,2023-05-24,14,15,50
+375,Quality Assurance and Testing,Assessment on Quality Assurance and Testing,2024-03-16,12,16,25
+376,Quality Assurance and Testing,Assessment on Quality Assurance and Testing,2023-10-15,10,11,100
+377,DevOps,Assessment on DevOps,2024-01-19,10,14,120
+378,Nanotechnology,Assessment on Nanotechnology,2022-01-25,13,15,100
+379,Cloud Security,Assessment on Cloud Security,2024-02-24,13,18,50
+380,Supply Chain Management Systems,Assessment on Supply Chain Management Systems,2024-03-08,11,12,100
+381,Nanotechnology,Assessment on Nanotechnology,2022-06-07,11,15,100
+382,Business Intelligence,Assessment on Business Intelligence,2023-02-11,15,18,100
+383,IT Infrastructure Management,Assessment on IT Infrastructure Management,2023-10-20,10,15,100
+384,Cloud Computing,Assessment on Cloud Computing,2024-02-20,14,15,120
+385,Artificial Intelligence,Assessment on Artificial Intelligence,2024-01-13,15,18,25
+386,Computational Biology,Assessment on Computational Biology,2023-05-16,14,17,25
+387,Cybersecurity,Assessment on Cybersecurity,2023-12-03,9,14,25
+388,Robotics,Assessment on Robotics,2022-03-01,14,17,25
+389,Human-Computer Interaction,Assessment on Human-Computer Interaction,2024-03-04,13,14,50
+390,5G Technology,Assessment on 5G Technology,2023-11-05,13,16,100
+391,Data Science,Assessment on Data Science,2022-10-21,14,17,50
+392,Data Science,Assessment on Data Science,2022-05-14,9,12,50
+393,IT Infrastructure Management,Assessment on IT Infrastructure Management,2023-05-03,12,14,100
+394,Geographical Information Systems (GIS),Assessment on Geographical Information Systems (GIS),2024-01-12,10,12,100
+395,IT Infrastructure Management,Assessment on IT Infrastructure Management,2023-09-12,11,12,120
+396,Augmented Reality (AR),Assessment on Augmented Reality (AR),2023-07-20,10,15,100
+397,Enterprise Resource Planning (ERP),Assessment on Enterprise Resource Planning (ERP),2023-10-25,13,14,50
+398,Business Intelligence,Assessment on Business Intelligence,2023-12-08,9,17,25
+399,Quality Assurance and Testing,Assessment on Quality Assurance and Testing,2024-02-10,12,18,120
+400,Augmented Reality (AR),Assessment on Augmented Reality (AR),2023-12-22,12,18,100
+401,Computer Vision,Assessment on Computer Vision,2022-07-31,13,14,50
+402,DevOps,Assessment on DevOps,2024-03-09,12,13,120
+403,Artificial Intelligence,Assessment on Artificial Intelligence,2023-06-28,11,15,100
+404,Game Development,Assessment on Game Development,2021-12-06,14,16,100
+405,Cloud Security,Assessment on Cloud Security,2022-06-08,13,16,25
+406,Penetration Testing,Assessment on Penetration Testing,2023-03-14,15,18,25
+407,Computer Vision,Assessment on Computer Vision,2024-01-05,11,12,50
+408,Soft Skill Training,Assessment on Soft Skill Training,2024-04-02,11,13,50
+409,Network Administration,Assessment on Network Administration,2024-03-04,13,14,25
+410,IT Infrastructure Management,Assessment on IT Infrastructure Management,2023-12-25,13,16,50
+411,Penetration Testing,Assessment on Penetration Testing,2022-11-24,13,18,50
+412,Embedded Systems,Assessment on Embedded Systems,2023-07-17,12,18,50
+413,Bioinformatics,Assessment on Bioinformatics,2023-05-01,11,13,100
+414,Data Engineering,Assessment on Data Engineering,2024-01-04,14,15,120
+415,IT Infrastructure Management,Assessment on IT Infrastructure Management,2023-12-11,10,18,50
+416,Cognitive Computing,Assessment on Cognitive Computing,2024-03-17,14,17,120
+417,Quantum Computing,Assessment on Quantum Computing,2024-01-23,15,17,120
+418,Soft Skill Training,Assessment on Soft Skill Training,2023-08-27,9,13,50
+419,Predictive Maintenance,Assessment on Predictive Maintenance,2023-03-13,11,14,25
+420,Quantum Computing,Assessment on Quantum Computing,2022-11-20,11,12,25
+421,Embedded Systems,Assessment on Embedded Systems,2022-06-08,9,14,100
+422,Supply Chain Management Systems,Assessment on Supply Chain Management Systems,2022-10-03,9,12,100
+423,Enterprise Resource Planning (ERP),Assessment on Enterprise Resource Planning (ERP),2023-08-01,14,17,100
+424,Software Development,Assessment on Software Development,2022-10-08,13,15,100
+425,Big Data Analytics,Assessment on Big Data Analytics,2023-04-29,13,14,50
+426,Predictive Maintenance,Assessment on Predictive Maintenance,2022-03-25,10,12,25
+427,Software Development,Assessment on Software Development,2022-09-21,11,13,25
+428,Quantum Computing,Assessment on Quantum Computing,2022-05-19,11,15,50
+429,Augmented Reality (AR),Assessment on Augmented Reality (AR),2022-08-12,11,14,50
+430,Data Engineering,Assessment on Data Engineering,2024-03-01,14,15,100
+431,Deep Learning,Assessment on Deep Learning,2022-12-18,9,18,100
+432,Software Development,Assessment on Software Development,2024-04-08,10,15,120
+433,Natural Language Processing (NLP),Assessment on Natural Language Processing (NLP),2022-09-17,14,18,25
+434,Blockchain Technology,Assessment on Blockchain Technology,2023-05-24,14,15,25
+435,IT Infrastructure Management,Assessment on IT Infrastructure Management,2023-05-27,9,15,120
+436,Data Engineering,Assessment on Data Engineering,2024-03-25,11,15,120
+437,Artificial Intelligence,Assessment on Artificial Intelligence,2022-12-04,15,16,100
+438,Internet of Things (IoT),Assessment on Internet of Things (IoT),2023-08-10,12,14,120
+439,Deep Learning,Assessment on Deep Learning,2024-01-03,15,16,100
+440,Bioinformatics,Assessment on Bioinformatics,2024-03-21,14,18,25
+441,Renewable Energy Systems,Assessment on Renewable Energy Systems,2024-01-08,14,16,100
+442,Mobile App Development,Assessment on Mobile App Development,2024-02-05,15,18,100
+443,Soft Skill Training,Assessment on Soft Skill Training,2023-10-18,9,10,100
+444,Internet of Things (IoT),Assessment on Internet of Things (IoT),2024-03-22,11,12,50
+445,Computational Biology,Assessment on Computational Biology,2024-03-19,13,16,25
+446,Data Engineering,Assessment on Data Engineering,2022-10-07,14,16,100
+447,Blockchain Technology,Assessment on Blockchain Technology,2024-03-22,14,16,120
+448,Machine Learning,Assessment on Machine Learning,2022-11-11,9,18,100
+449,Quantum Computing,Assessment on Quantum Computing,2024-04-03,12,15,25
+450,UX/UI Design,Assessment on UX/UI Design,2023-05-04,13,16,120
+451,Big Data Analytics,Assessment on Big Data Analytics,2022-01-24,15,16,50
+452,Database Management,Assessment on Database Management,2024-03-19,10,16,25
+453,5G Technology,Assessment on 5G Technology,2023-11-13,11,17,100
+454,Artificial Intelligence,Assessment on Artificial Intelligence,2024-03-21,12,15,50
+455,Renewable Energy Systems,Assessment on Renewable Energy Systems,2024-02-12,15,18,100
+456,Virtualization,Assessment on Virtualization,2023-10-09,15,18,25
+457,Web Development,Assessment on Web Development,2021-10-25,12,17,120
+458,Software Development,Assessment on Software Development,2023-08-25,13,16,50
+459,Industrial Automation,Assessment on Industrial Automation,2024-02-22,10,16,50
+460,5G Technology,Assessment on 5G Technology,2022-07-04,9,12,50
+461,Business Intelligence,Assessment on Business Intelligence,2024-04-07,14,18,120
+462,Information Security,Assessment on Information Security,2022-08-30,13,16,120
+463,Virtual Reality (VR),Assessment on Virtual Reality (VR),2023-11-06,14,18,50
+464,Natural Language Processing (NLP),Assessment on Natural Language Processing (NLP),2024-03-05,14,17,100
+465,Quality Assurance and Testing,Assessment on Quality Assurance and Testing,2024-02-18,11,17,100
+466,DevOps,Assessment on DevOps,2023-08-05,11,13,50
+467,Data Science,Assessment on Data Science,2023-03-16,13,16,50
+468,Big Data Analytics,Assessment on Big Data Analytics,2024-03-02,14,17,120
+469,Soft Skill Training,Assessment on Soft Skill Training,2023-11-20,14,16,120
+470,Ethical Hacking,Assessment on Ethical Hacking,2023-06-27,9,18,25
+471,Virtualization,Assessment on Virtualization,2024-04-01,11,13,25
+472,Digital Marketing Analytics,Assessment on Digital Marketing Analytics,2022-12-28,13,15,120
+473,Network Administration,Assessment on Network Administration,2021-10-20,12,14,25
+474,Internet of Things (IoT),Assessment on Internet of Things (IoT),2023-11-22,11,18,50
+475,Virtual Reality (VR),Assessment on Virtual Reality (VR),2024-01-21,14,16,100
+476,Quantum Computing,Assessment on Quantum Computing,2023-10-10,15,17,120
+477,Wireless Communication,Assessment on Wireless Communication,2021-11-18,10,12,50
+478,Technical Writing and Documentation,Assessment on Technical Writing and Documentation,2023-06-14,14,15,120
+479,Network Administration,Assessment on Network Administration,2023-07-29,11,13,50
+480,Semiconductor Manufacturing,Assessment on Semiconductor Manufacturing,2024-04-08,11,18,25
+481,Semiconductor Manufacturing,Assessment on Semiconductor Manufacturing,2022-11-18,13,14,100
+482,Human-Computer Interaction,Assessment on Human-Computer Interaction,2021-10-06,12,17,120
+483,Predictive Maintenance,Assessment on Predictive Maintenance,2024-01-23,15,16,100
+484,Blockchain Technology,Assessment on Blockchain Technology,2024-03-09,11,15,120
+485,Industrial Automation,Assessment on Industrial Automation,2024-03-18,12,18,50
+486,Bioinformatics,Assessment on Bioinformatics,2024-04-04,9,16,120
+487,Natural Language Processing (NLP),Assessment on Natural Language Processing (NLP),2024-03-21,10,11,100
+488,Computer Forensics,Assessment on Computer Forensics,2024-01-08,11,16,120
+489,Business Intelligence,Assessment on Business Intelligence,2024-03-26,14,15,120
+490,DevOps,Assessment on DevOps,2024-03-13,14,18,50
+491,Natural Language Processing,Assessment on Natural Language Processing,2024-04-02,14,18,120
+492,Predictive Maintenance,Assessment on Predictive Maintenance,2022-11-30,14,18,50
+493,DevOps,Assessment on DevOps,2022-09-20,13,18,120
+494,Computer Forensics,Assessment on Computer Forensics,2023-10-14,13,14,50
+495,Mobile App Development,Assessment on Mobile App Development,2022-11-15,11,17,50
+496,5G Technology,Assessment on 5G Technology,2023-09-30,12,18,25
+497,Embedded Systems,Assessment on Embedded Systems,2023-08-17,15,18,25
+498,UX/UI Design,Assessment on UX/UI Design,2023-09-17,11,18,50
+499,5G Technology,Assessment on 5G Technology,2023-02-25,9,14,100

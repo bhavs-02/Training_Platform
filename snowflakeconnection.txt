@@ -1,0 +1,27 @@
+https://app.snowflake.com/nrgyqnl/bg25336/worksheets
+
+
+Connection:
+08:56:38    account: nrgyqnl-bg25336
+08:56:38    user: Bhavana
+08:56:38    database: TRAINING_PLATFORM_PROJECT
+08:56:38    warehouse: COMPUTE_WH
+08:56:38    role: ACCOUNTADMIN
+08:56:38    schema: PUBLIC
+08:56:38    authenticator: None
+08:56:38    oauth_client_id: None
+08:56:38    query_tag: None
+08:56:38    client_session_keep_alive: False
+08:56:38    host: None
+08:56:38    port: None
+08:56:38    proxy_host: None
+08:56:38    proxy_port: None
+08:56:38    protocol: None
+08:56:38    connect_retries: 1
+08:56:38    connect_timeout: None
+08:56:38    retry_on_database_errors: False
+08:56:38    retry_all: False
+08:56:38    insecure_mode: False
+08:56:38    reuse_connections: None
+08:56:38  Registered adapter: snowflake=1.7.3
+08:56:39    Connection test: [OK connection ok]

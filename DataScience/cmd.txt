@@ -1,0 +1,17 @@
+so, my training schedule table will have certain topics or domains of training over few days and hours. and other properties as given by me. and then the assessment schedule table must have the assessment domain from the training topic and then give date and time for the tests.. a tests duration must not be less than 15 minutes or more than 3 hours. it can have total scores as 25, 50, 100, 120. 
+
+score table must contain the assessment id from assessment table and the scores obtained. 
+
+i repeat, the tables and columns i need are:
+training schedule table:
+columns:  training topic (domain), training date, training start time, training end time
+
+assessment schedule table:
+columns: assessmentid, assessment domain(mapped from training domain), assessment sub-topic,  date of test, start time of test, end time of test, total score
+
+scores table:
+assessmentid, user name, mail id, obtained score 
+
+give me a code to generate data as excel sheets for the same.
+
+

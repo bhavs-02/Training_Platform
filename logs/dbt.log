@@ -1,0 +1,94 @@
+[0m12:29:03.487882 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FD03AB6C00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FD03AB5190>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FD03AB5B50>]}
+
+
+============================== 12:29:03.503508 | d1c67193-1e2f-4c1e-8a22-66002c3e031c ==============================
+[0m12:29:03.503508 [info ] [MainThread]: Running with dbt=1.7.9
+[0m12:29:03.503508 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'fail_fast': 'False', 'log_path': 'logs', 'version_check': 'True', 'profiles_dir': 'C:\\Users\\BhavanaS\\.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'introspect': 'True', 'target_path': 'None', 'invocation_command': 'dbt init dbtTrainingModule', 'send_anonymous_usage_stats': 'True'}
+[0m12:29:03.510019 [debug] [MainThread]: Starter project path: C:\Users\BhavanaS\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\include\starter_project
+[0m12:29:03.540800 [info ] [MainThread]: 
+Your new dbt project "dbtTrainingModule" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m12:29:03.540800 [info ] [MainThread]: Setting up your profile.
+[0m12:29:09.876852 [info ] [MainThread]: No sample profile found for sqlserver.
+[0m12:29:09.892479 [debug] [MainThread]: Command `dbt init` succeeded at 12:29:09.892479 after 6.53 seconds
+[0m12:29:09.892479 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FD02BEDE50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FD0366AB40>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FD03B18D40>]}
+[0m12:29:09.892479 [debug] [MainThread]: Flushing usage events
+[0m14:22:33.559797 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C26E2D5610>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C26E2D5810>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C26E2D4510>]}
+
+
+============================== 14:22:33.559797 | 88006854-764a-41c1-a90e-777db6bd0c3c ==============================
+[0m14:22:33.559797 [info ] [MainThread]: Running with dbt=1.7.11
+[0m14:22:33.559797 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'version_check': 'True', 'log_path': 'logs', 'fail_fast': 'False', 'profiles_dir': 'C:\\Users\\BhavanaS\\.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'invocation_command': 'dbt init dbtProject', 'introspect': 'True', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m14:22:33.559797 [debug] [MainThread]: Starter project path: C:\Users\BhavanaS\anaconda3\Lib\site-packages\dbt\include\starter_project
+[0m14:22:33.604643 [info ] [MainThread]: 
+Your new dbt project "dbtProject" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m14:22:33.605422 [info ] [MainThread]: Setting up your profile.
+[0m14:25:20.611358 [info ] [MainThread]: Profile dbtProject written to C:\Users\BhavanaS\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m14:25:20.615860 [debug] [MainThread]: Command `dbt init` succeeded at 14:25:20.614840 after 167.15 seconds
+[0m14:25:20.618050 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C26783D050>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C26783CC10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C2678C9650>]}
+[0m14:25:20.618805 [debug] [MainThread]: Flushing usage events
+[0m14:25:31.938298 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024B74716C10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024B74715190>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024B74714A90>]}
+
+
+============================== 14:25:31.953923 | 02ddc20f-06e6-467a-8d2d-bb902ec7a65d ==============================
+[0m14:25:31.953923 [info ] [MainThread]: Running with dbt=1.7.11
+[0m14:25:31.953923 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'profiles_dir': 'C:\\Users\\BhavanaS\\.dbt', 'log_path': 'logs', 'fail_fast': 'False', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'introspect': 'True', 'log_format': 'default', 'target_path': 'None', 'invocation_command': 'dbt debug', 'send_anonymous_usage_stats': 'True'}
+[0m14:25:31.953923 [info ] [MainThread]: dbt version: 1.7.11
+[0m14:25:31.953923 [info ] [MainThread]: python version: 3.11.7
+[0m14:25:31.960431 [info ] [MainThread]: python path: C:\Users\BhavanaS\anaconda3\python.exe
+[0m14:25:31.960431 [info ] [MainThread]: os info: Windows-10-10.0.19045-SP0
+[0m14:25:31.960431 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.sqlserver'
+[0m14:25:33.363339 [info ] [MainThread]: Using profiles dir at C:\Users\BhavanaS\.dbt
+[0m14:25:33.363339 [info ] [MainThread]: Using profiles.yml file at C:\Users\BhavanaS\.dbt\profiles.yml
+[0m14:25:33.363339 [info ] [MainThread]: Using dbt_project.yml file at C:\Users\BhavanaS\Desktop\Final Project\dbt_project.yml
+[0m14:25:33.363339 [info ] [MainThread]: Configuration:
+[0m14:25:33.363339 [info ] [MainThread]:   profiles.yml file [[31mERROR invalid[0m]
+[0m14:25:33.363339 [info ] [MainThread]:   dbt_project.yml file [[31mERROR not found[0m]
+[0m14:25:33.363339 [info ] [MainThread]: Required dependencies:
+[0m14:25:33.363339 [debug] [MainThread]: Executing "git --help"
+[0m14:25:33.428971 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--config-env=<name>=<envvar>] <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m14:25:33.430171 [debug] [MainThread]: STDERR: "b''"
+[0m14:25:33.430171 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m14:25:33.430171 [info ] [MainThread]: Connection test skipped since no profile was found
+[0m14:25:33.430171 [info ] [MainThread]: [31m2 checks failed:[0m
+[0m14:25:33.430171 [info ] [MainThread]: Could not load dbt_project.yml
+Profile loading failed for the following reason:
+Runtime Error
+  Credentials in profile "DBT_Assesment", target "dev" invalid: Runtime Error
+    Could not find adapter type sqlserver!
+
+
+[0m14:25:33.430171 [info ] [MainThread]: Project loading failed for the following reason:
+ project path <C:\Users\BhavanaS\Desktop\Final Project\dbt_project.yml> not found
+
+[0m14:25:33.430171 [debug] [MainThread]: Command `dbt debug` failed at 14:25:33.430171 after 1.57 seconds
+[0m14:25:33.430171 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024B74379290>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024B6DC2CE10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024B6DC2CD10>]}
+[0m14:25:33.430171 [debug] [MainThread]: Flushing usage events

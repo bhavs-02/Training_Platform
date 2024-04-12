@@ -1,0 +1,35 @@
+name: 'dbtProject'
+version: '1.0.0'
+config-version: 2
+
+profile: 'dbtProject'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:       
+  - "target"
+  - "dbt_packages"
+
+models:
+  dbtProject:
+    +materialized: table
+    +database: TRAINING_PLATFORM_PROJECT
+
+    staging:
+      +schema: staging
+
+    mart:
+      +schema: mart
+    
+    seeds:
+      demoproj:
+        +database: TRAINING_PLATFORM_PROJECT
+        +schema: staging
+    
+    vars:
+      dat: getdate()

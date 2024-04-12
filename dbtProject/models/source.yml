@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: trainingdb
+    database: TRAINING_PLATFORM_PROJECT
+    schema: PUBLIC
+    tables:
+      - name: ASSESSMENT_SCHEDULES
+      - name: ASSESSMENT_SCORES
+      - name: TRAINING_SCHEDULES
+      - name: USER_DATA

@@ -189,21 +189,11 @@ app.post("/save-training", async (req, res) => {
         mail_sent,
       ]
     );
-
-    let intended_audience_id;
-    if (intended_audience === "Employee") {
-      intended_audience_id = 1;
-    } else if (intended_audience === "Intern") {
-      intended_audience_id = 2;
-    } else {
-      throw new Error("Invalid intended audience");
-    }
-
     // Check if mail should be sent
     if (mail_sent) {
       const users = await pool.query(
         "SELECT mail_id FROM userdata WHERE user_type = $1",
-        [intended_audience_id]
+        [intended_audience]
       );
 
       const mailOptions = {
@@ -395,11 +385,12 @@ app.post("/save-assessment", async (req, res) => {
       start_time,
       end_time,
       mail_sent,
+      training_topic,
     } = req.body;
 
     // Insert data into the database
     const result = await pool.query(
-      "INSERT INTO assessment_schedules (assessment_topic, assessment_link, intended_audience, total_marks, assessment_date, start_time, end_time, mail_sent) VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING *",
+      "INSERT INTO assessment_schedules (assessment_topic, assessment_link, intended_audience, total_marks, assessment_date, start_time, end_time, mail_sent, training_topic) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9) RETURNING *",
       [
         assessment_topic,
         assessment_link,
@@ -409,22 +400,14 @@ app.post("/save-assessment", async (req, res) => {
         start_time,
         end_time,
         mail_sent,
+        training_topic,
       ]
     );
-
-    let intended_audience_id;
-    if (intended_audience === "Employee") {
-      intended_audience_id = 1;
-    } else if (intended_audience === "Intern") {
-      intended_audience_id = 2;
-    } else {
-      throw new Error("Invalid intended audience");
-    }
 
     if (mail_sent) {
       const users = await pool.query(
         "SELECT mail_id FROM userdata WHERE user_type = $1",
-        [intended_audience_id]
+        [intended_audience]
       );
 
       const mailOptions = {
@@ -592,29 +575,6 @@ app.put("/assessments/:id", async (req, res) => {
       message: "Assessment data updated successfully",
       data: result.rows[0],
     });
-  } catch (error) {
-    console.error("Error occurred:", error);
-    res.status(500).json({
-      message: "An error occurred while processing your request",
-    });
-  }
-});
-
-app.post("/upload-data", async (req, res) => {
-  try {
-    const { assessmentId, name, mailid, score } = req.body;
-    // if (!assessmentId || !name || !mailid || !score) {
-    //   throw new Error("Incomplete data");
-    // }
-    const numericScore = parseFloat(score);
-    if (isNaN(numericScore)) {
-      throw new Error("Invalid score value: " + score);
-    }
-    await pool.query(
-      "INSERT INTO assessment_scores (assessment_id, name, mail_id, score) VALUES ($1, $2, $3, $4)",
-      [assessmentId, name, mailid, numericScore]
-    );
-    res.status(200).json({ message: "Data uploaded successfully" });
   } catch (error) {
     console.error("Error occurred:", error);
     res.status(500).json({
